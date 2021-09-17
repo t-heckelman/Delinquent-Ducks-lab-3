@@ -1,5 +1,4 @@
 # Delinquent-Ducks-lab-3
-<<<<<<< HEAD
-Project Team Members: 
+Project Team Members:
+Raven O'Rourke
 Teddy Heckelman
-Edited main branch
